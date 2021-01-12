@@ -91,7 +91,7 @@ main {
 }
 .nav-address {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   color: var(--dark-gray-color);
 }
